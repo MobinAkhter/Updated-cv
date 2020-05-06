@@ -1,0 +1,49 @@
+/****************************************************
+ * The body and the h1 below essentially makes sure
+ * that the things start from the absolute beginning
+ * when the webpage loads up.
+ ****************************************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 40px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.mobin {
+  height: 5%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+div {
+  background-color: #E4F9F5;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+}
+.bottom-container {
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
