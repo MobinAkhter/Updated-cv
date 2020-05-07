@@ -9,19 +9,25 @@ body {
   font-family: 'Merriweather', serif;
 }
 h1 {
+  color: #66BFBF;
   font-size: 5.625rem;
+  /* line-height: 2;*/
   margin: 40px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 h2 {
+  color: #66BFBF;
   font-size: 2rem;
   font-family: 'Montserrat', sans-serif;
 }
 .mobin {
   height: 5%;
 }
-
+.myH2 {
+  font-weight: normal;
+}
 h3 {
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
 div {
@@ -46,4 +52,7 @@ div {
   position: absolute;
   right: 300px;
   top: 50px;
+}
+.footer-link {
+  color: #11999E;
 }
